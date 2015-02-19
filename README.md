@@ -16,7 +16,7 @@ To obtain your API token
 
 - Go to [FlashReport website] (http://flashreport.io)
 - Register, it's free and does not require any payment information
-- Log in, and gain your API token from the _Control Panel_ screen
+- Log in, and get your API token from the _Control Panel_ screen
 - Your free evaluation period lasts 30 days, and so does your token
 
 ### Required software
